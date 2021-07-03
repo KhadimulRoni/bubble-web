@@ -74,6 +74,7 @@ h1{
     top: 50%;
     transform: translateY(-50%);
     animation: mymove 5s infinite;
+    border-radius: 15px;
 
 }
 .useful-link{
@@ -82,7 +83,7 @@ h1{
     position: absolute;
     bottom: 30px;
     animation: mymove 5s infinite;
-
+    border-radius: 15px;
 
 }
 @keyframes mymove {
