@@ -24,6 +24,9 @@
     justify-content: space-between;
 }
 button{
+    animation: mymove1 5s infinite;
+}
+button{
     color: #fbfcfd;
     background-color: transparent;
     padding: 10px 25px;
@@ -156,6 +159,7 @@ h1{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-size: cover;
     
 }
 p{
@@ -238,4 +242,8 @@ p{
     animation: mymove1 5s infinite;
     padding: 20px;
     text-align: center;
+}
+.t{
+    width: 65%;
+    height: 15%;
 }
